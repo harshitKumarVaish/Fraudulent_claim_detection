@@ -82,5 +82,4 @@ jupyter notebook Fraudulent_Claim_Detection__Ganesh_Babu_Kamma_Harshit_Kumar_Vai
 
 ## Authors
 
-- Ganesh Babu Kamma
 - Harshit Kumar Vaish
